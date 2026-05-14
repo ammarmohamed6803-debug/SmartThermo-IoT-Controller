@@ -19,8 +19,10 @@ An automated, closed-loop climate regulation and telemetry logging system built 
 
 ## System Architecture 
 <img width="1280" height="183" alt="image" src="https://github.com/user-attachments/assets/70467464-8818-4f75-95de-e04f84ee4c1d" />
+
 ## Circuit Schematic
 <img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/d3d1a04c-aa55-4283-8557-428095ba1eaf" />
+
 ## 3D Enclosure Design
 <img width="989" height="543" alt="image" src="https://github.com/user-attachments/assets/c9c7c01a-3d0a-4b9b-8c2f-283943edc47d" />
 
